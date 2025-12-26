@@ -55,7 +55,7 @@ export function CommandLine({
       />
       <div className="command-line-show" style={{ lineHeight: '1.3em', marginTop: '-2px' }}>
         <span style={{ color: '#d72323' }}>
-          {isPasswordMode ? 'Password: ' : 'stranger@whoisridze.vercel.app:~$ '}
+          {isPasswordMode ? 'Password: ' : 'stranger@ridze.vercel.app:~$ '}
         </span>
         <span id="typer">{displayValue}</span>
         <Cursor />

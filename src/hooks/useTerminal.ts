@@ -218,7 +218,7 @@ export function useTerminal() {
       setHistoryIndex(commandHistory.length + 1);
     }
 
-    addLine(`stranger@whoisridze.vercel.app:~$ ${currentInput}`, 'no-animation', 0, true);
+    addLine(`stranger@ridze.vercel.app:~$ ${currentInput}`, 'no-animation', 0, true);
 
     if (cmd) {
       executeCommand(cmd);
