@@ -4,7 +4,7 @@ import { CommandLine } from './CommandLine';
 import { OutputLine } from './OutputLine';
 
 interface TerminalProps {
-  terminalRef?: React.RefObject<HTMLDivElement | null>;
+  terminalRef?: React.RefObject<HTMLDivElement>;
 }
 
 export function Terminal({ terminalRef }: TerminalProps) {
