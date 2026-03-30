@@ -1,6 +1,6 @@
 <div align="center">
 
-# whoisridze-website
+# ridze-website
 
 [![Live](https://img.shields.io/badge/Live-ridze.vercel.app-d72323?style=for-the-badge)](https://ridze.vercel.app)
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
