@@ -55,7 +55,3 @@ npm run build
 # Preview production build
 npm run preview
 ```
-
-## License
-
-Private project.
